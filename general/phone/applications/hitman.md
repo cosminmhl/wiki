@@ -8,14 +8,14 @@ title: Hitman - Phone Application
 
 ## Prezentarea aplicației
 
-<Image src="https://i.imgur.com/1Tqz6sd.png" alt="Meniul Principal" />
+<Image src="https://i.imgur.com/5Y9D1In.png" alt="Meniul Principal" />
 
 ### Plasare contract
 
 ---
 
 ::: tip
-Pentru a plasa un contract, trebuie să deți suma minimă de **200** USDT (Tether) pentru a plăti serviciile de asasinare.
+Pentru a plasa un contract, trebuie să deți suma minimă de **500** USDT (Tether) pentru a plăti serviciile de asasinare.
 
 > Vizitează aplicatia [Bank](./bank#cryptomonede) pentru a afla cum poți obține USDT (Tether).
 :::
